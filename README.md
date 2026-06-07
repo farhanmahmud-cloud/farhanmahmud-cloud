@@ -1,16 +1,18 @@
-## Hi there 👋
+# Md Farhan Mahmud
 
-<!--
-**farhanmahmud-cloud/farhanmahmud-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical practitioner focusing on enterprise network infrastructure, system administration, and automation. Currently executing hands-on labs to build out practical competencies across core networking frameworks and infrastructure-as-code paradigms.
 
-Here are some ideas to get you started:
+### Overview
+- Currently working on: Designing and verifying multi-zone enterprise network topologies using Cisco Packet Tracer.
+- Currently learning: Cisco CCNA objectives, native Linux administration, and structural Python automation logic.
+- Looking to collaborate on: Small-scale network scripting, Bash utility development, and open-source infrastructure projects.
+- Looking for help with: Advanced routing optimization protocols and enterprise-grade network security design.
+- Ask me about: Cisco IOS command-line basics, OSI model data flows, and local network troubleshooting tools.
+- How to reach me: mdfarhammahmud2025@gmail.com
+- Pronouns: He/Him
+- Fun fact: I practice strict macro management for physical fitness but leave the absolute house governance entirely to my two cats.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Stack (Active Practice)
+- Networking: Cisco IOS, OSI model architecture, IPv4/IPv6 address engineering
+- Systems & Scripting: Linux (Ubuntu/WSL), Bash, Python
+- Version Control & Dev Tools: Git, GitHub, VS Code
