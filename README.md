@@ -16,3 +16,7 @@ Technical practitioner focusing on enterprise network infrastructure, system adm
 - Networking: Cisco IOS, OSI model architecture, IPv4/IPv6 address engineering
 - Systems & Scripting: Linux (Ubuntu/WSL), Bash, Python
 - Version Control & Dev Tools: Git, GitHub, VS Code
+
+## Current Milestones & Certifications
+* **CompTIA A+ Certified** (Core 1: 860 | Core 2: 820) 
+* **CCNA 200-301:** In Progress (Target Exam Window: July 15–20)
